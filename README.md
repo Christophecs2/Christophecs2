@@ -2,7 +2,7 @@
 
 - 💼 Atualmente estou atuando como Analista de Sistemas na Empresa KONIMAGEM.👨🏻‍💻
 - 🌱 Atualmente estou aprendendo JavaScript e Python 🐍
-- 🤔⁉ Estou procurando ajuda com Lógica de Programação e Python 🐍
+- 💻 Tenho experiencia em SQL SERVER e Atendimento ao cliente.
 
 
 <div>
