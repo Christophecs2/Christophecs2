@@ -1,8 +1,8 @@
-## Olá eu sou Christophe
+## Hello I'm Christophe
 
-- 💼 Atualmente estou atuando como Analista de Sistemas na Empresa KONIMAGEM.👨🏻‍💻
-- 🌱 Atualmente estou aprendendo JavaScript e Python 🐍
-- 💻 Tenho experiencia em SQL SERVER e Atendimento ao cliente.
+- 💼 I'm currently working as a Systems Analyst at KONIMAGEM Company.👨🏻‍💻
+- 🌱 I'm learning JavaScript☕ and Python 🐍
+- 💻 I have experience in SQL SERVER and Customer Service and Scrum.
 
 
 <div>
