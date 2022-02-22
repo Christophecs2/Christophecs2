@@ -2,7 +2,7 @@
 
 - 💼 I'm currently working as a Systems Analyst at KONIMAGEM Company.👨🏻‍💻
 - 🌱 I'm learning JavaScript☕ and Python 🐍
-- 💻 I have experience in SQL SERVER and Customer Service and Scrum.
+- 💻 I have experience in SQL SERVER, Customer Service and Scrum.
 
 
 <div>
