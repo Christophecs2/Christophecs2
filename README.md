@@ -31,4 +31,6 @@
  ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=Christophecs2)
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3YTZhN2I2MDk4NTExMThhNjlhOTQ4MWIzMWM1MjUxYzI5MWE2OSZjdD1n/sUOkBnwf8157cVGE57/giphy.gif" width="50%"/>
