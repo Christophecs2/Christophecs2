@@ -7,8 +7,10 @@
 
 <div>
   <a href="https://github.com/christophecs2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christophecs2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophecs2&layout=compact&langs_count=7&theme=dark"/>
+[![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
   <div style="display: inline_block"><br>
