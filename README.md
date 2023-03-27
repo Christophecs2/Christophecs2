@@ -5,13 +5,11 @@
 - 💻 I have experience in SQL SERVER, Customer Service and Scrum.
 
 
-<div>
-  <a href="https://github.com/christophecs2">
+
 [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
