@@ -1,4 +1,4 @@
-## Hello I'm Christophe
+## 💫  Hello I'm Christophe
 
 - 💼 I'm currently working as a Systems Analyst at KONIMAGEM Company.👨🏻‍💻
 - 🌱 I'm learning JavaScript☕ and Python 🐍
