@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/jolly/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Christophecs2/Christophecs2/main/profile-summary-card-output/jolly/4-productive-time.svg)
+```
+
+    
